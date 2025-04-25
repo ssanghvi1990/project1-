@@ -1,0 +1,7 @@
+apiversion : v2
+kind: test 
+metadat:
+  name: gittest 
+spec:
+  name: gittest
+  image: ubuntu 
